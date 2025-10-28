@@ -40,12 +40,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BackGroud
+    uniqueID: 1751571333
+    locked: 0
+  - name: Cow
+    uniqueID: 2144770137
+    locked: 0
+  - name: Oxen
+    uniqueID: 3404244859
+    locked: 0
+  - name: Family
+    uniqueID: 4005109457
+    locked: 0
   - name: Ui
     uniqueID: 3878109835
     locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: BackGroud
-    uniqueID: 1751571333
     locked: 0

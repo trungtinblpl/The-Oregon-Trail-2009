@@ -1,3 +1,4 @@
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,21 +7,17 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 UserSettings/
-*.csproj
-*.unityproj
-*.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
-.vs/
+
+# Visual Studio / JetBrains
 .vscode/
 .idea/
-Packages/com.unity.collab-proxy/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+
